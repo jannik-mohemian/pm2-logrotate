@@ -28,7 +28,7 @@ We are using [node-schedule](https://github.com/node-schedule/node-schedule) to 
 ```
 *    *    *    *    *    *
 ┬    ┬    ┬    ┬    ┬    ┬
-│    │    │    │    │    |
+│    │    │    │    │    │
 │    │    │    │    │    └ day of week (0 - 7) (0 or 7 is Sun)
 │    │    │    │    └───── month (1 - 12)
 │    │    │    └────────── day of month (1 - 31)
